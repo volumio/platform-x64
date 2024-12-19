@@ -8,9 +8,9 @@
 |20241204|gkkpch|Initial Kernel 6.6.32
 |20241205||Bumped to Kernel 6.12.1 for bookworm testing
 |20241208||Reversed to 6.6.y due to regression
-|20241210||Modified bytcr-init.sh to fit the new ucm2 folder and codecs
+|20241210||x86_amd64.tar.xz: used modified bytcr-init.sh 
 |||Kernel updated to 6.6.65
-
+|20241219||x86_amd64.tar.xz: used improved bytcr_init.sh and jackdetect.sh
 
 
 
