@@ -12,6 +12,7 @@
 |||Kernel updated to 6.6.65
 |20241219||x86_amd64.tar.xz: used improved bytcr_init.sh and jackdetect.sh
 |20250102||Fixed initial headphone/speaker switch in bytcr_init.sh
+|20250108||[snd-usb-audio] Add DSD quirk for Luxman DA-250
 |||Kernel updated to 6.6.69
 
 
