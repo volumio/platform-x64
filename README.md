@@ -1,7 +1,7 @@
 
 ## **platform-x64**
 
-### **Tracking from bookworm 04.12.2024**
+### **Tracking from bookworm 10.05.2025**
 
 |Date|Author|Change
 |---|---|---|
@@ -14,6 +14,7 @@
 |20250102||Fixed initial headphone/speaker switch in bytcr_init.sh
 |20250108||[snd-usb-audio] Add DSD quirk for Luxman DA-250
 |||Kernel updated to 6.6.69
+|20250510|foonerd|Kernel updated to 6.12.28
 
 
 
