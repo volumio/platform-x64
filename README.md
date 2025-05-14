@@ -16,8 +16,4 @@
 |||Kernel updated to 6.6.69
 |20250510|foonerd|Kernel updated to 6.12.28
 |20250513|foonerd|Realtek rtw88 from upstream
-
-
-
-
-
+|20250514|foonerd|[i915] missing KMS dependencies
