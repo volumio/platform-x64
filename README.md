@@ -17,3 +17,9 @@
 |20250510|foonerd|Kernel updated to 6.12.28
 |20250513|foonerd|Realtek rtw88 from upstream
 |20250514|foonerd|[i915] missing KMS dependencies
+|20250516|gkkpch|[hda-intel sound init] add Realtek ALC663 and ALC897
+||foonerd|[wifi] Restore 88XXAU USB driver module
+|||[wifi] Add runtime unblock mechanism for rfkill
+|||[cifs] Enable SMB311 and SMB_DIRECT for high-performance NAS access
+|||[cifs] Allow legacy SMB1 shares
+|||[HID] Devices twaks - regression
