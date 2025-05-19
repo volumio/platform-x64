@@ -23,3 +23,5 @@
 |||[cifs] Enable SMB311 and SMB_DIRECT for high-performance NAS access
 |||[cifs] Allow legacy SMB1 shares
 |||[HID] Devices twaks - regression
+|20250519|fooner|Bluetooth and LPSS support for Gemini Lake platforms
+|||Kernel updated to 6.12.29
