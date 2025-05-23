@@ -28,4 +28,4 @@
 |20250520|gkkpch|ACPI fixes for fallback for brightness, mute, volume keys
 |20250521|foonerd|Kernels build dependencies options
 |20250522|gkkpch|Correct acpi button handling and optimization
-|20250510|foonerd|Kernel updated to 6.12.30
+|20250523|foonerd|Kernel updated to 6.12.30
