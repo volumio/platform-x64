@@ -29,3 +29,4 @@
 |20250521|foonerd|Kernels build dependencies options
 |20250522|gkkpch|Correct acpi button handling and optimization
 |20250523|foonerd|Kernel updated to 6.12.30
+|20250523|gkkpch|[ACPI] Add mute for bay-/cherrytrail soundcards, add screenshot move script
