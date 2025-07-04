@@ -9,7 +9,7 @@
 |20241204|gkkpch|Initial Kernel 6.6.32
 |20241205||Bumped to Kernel 6.12.1 for bookworm testing
 |20241208||Reversed to 6.6.y due to regression
-|20241210||x86_amd64.tar.xz: used modified bytcr-init.sh 
+|20241210||x86_amd64.tar.xz: used modified bytcr-init.sh
 |||Kernel updated to 6.6.65
 |20241219||x86_amd64.tar.xz: used improved bytcr_init.sh and jackdetect.sh
 |20250102||Fixed initial headphone/speaker switch in bytcr_init.sh
@@ -30,3 +30,6 @@
 |20250522|gkkpch|Correct acpi button handling and optimization
 |20250523|foonerd|Kernel updated to 6.12.30
 |20250523|gkkpch|[ACPI] Add mute for bay-/cherrytrail soundcards, add screenshot move script
+|20250704|gkkpch|Kernel updated to 6.12.35
+|||[hda-intel soundcard init] Realtek ALC897: unmute all IEC958 controls
+
