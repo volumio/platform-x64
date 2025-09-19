@@ -3,6 +3,7 @@
 
 ### **Tracking from bookworm 04.12.2024**
 
+
 |Date|Author|Change
 |---|---|---|
 |20241204|gkkpch|Initial Kernel 6.6.32
@@ -29,6 +30,6 @@
 |20250522|gkkpch|Correct acpi button handling and optimization
 |20250523|foonerd|Kernel updated to 6.12.30
 |20250523|gkkpch|[ACPI] Add mute for bay-/cherrytrail soundcards, add screenshot move script
-|20250704|gkkpch|Kernel updated to 6.12.35
-|||[hda-intel soundcard init] Realtek ALC897: unmute all IEC958 controls
-|||Created new repo branch 6.12.35
+|20250704|gkkpch|[hda-intel soundcard init] Realtek ALC897: unmute all IEC958 controls
+|||Created new platform-x64 repo branch 6.12.35
+|20250919|gkkpch|[grub.cfg] Add "boot_screen_rotation.cfg" support
