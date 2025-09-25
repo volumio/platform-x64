@@ -33,3 +33,5 @@
 |20250704|gkkpch|[hda-intel soundcard init] Realtek ALC897: unmute all IEC958 controls
 |||Created new platform-x64 repo branch 6.12.35
 |20250919|gkkpch|[grub.cfg] Add "boot_screen_rotation.cfg" support
+|20250925|gkkpch|[grub.cfg] Modified bootscreen rotation support
+|||Kernel updated, new repo branch 6.12.49
