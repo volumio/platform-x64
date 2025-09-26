@@ -36,4 +36,4 @@
 |20250925|gkkpch|[grub.cfg] Modified bootscreen rotation support
 |||Kernel updated, new repo branch 6.12.49
 |||Additional kernel params for gyro sensors and backlight support
-
+|20250925|gkkpch|[grub.cfg] Corrected bootscreen rotation config location
