@@ -30,10 +30,11 @@
 |20250522|gkkpch|Correct acpi button handling and optimization
 |20250523|foonerd|Kernel updated to 6.12.30
 |20250523|gkkpch|[ACPI] Add mute for bay-/cherrytrail soundcards, add screenshot move script
-|20250704|gkkpch|[hda-intel soundcard init] Realtek ALC897: unmute all IEC958 controls
+|20250704||[hda-intel soundcard init] Realtek ALC897: unmute all IEC958 controls
 |||Created new platform-x64 repo branch 6.12.35
-|20250919|gkkpch|[grub.cfg] Add "boot_screen_rotation.cfg" support
-|20250925|gkkpch|[grub.cfg] Modified bootscreen rotation support
+|20250919||[grub.cfg] Add "boot_screen_rotation.cfg" support
+|20250925||[grub.cfg] Modified bootscreen rotation support
 |||Kernel updated, new repo branch 6.12.49
 |||Additional kernel params for gyro sensors and backlight support
-|20250925|gkkpch|[grub.cfg] Corrected bootscreen rotation config location
+|20250925||[grub.cfg] Corrected bootscreen rotation config location
+|20250930||[handle_brightness-button_event.sh] Support HW backlight brightness control
