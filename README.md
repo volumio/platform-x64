@@ -38,3 +38,4 @@
 |||Additional kernel params for gyro sensors and backlight support
 |20250925||[grub.cfg] Corrected bootscreen rotation config location
 |20250930||[handle_brightness-button_event.sh] Support HW backlight brightness control
+|20251113||[Wireless] Added support for RTL8812BU/RTL8822BU
