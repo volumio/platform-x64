@@ -39,3 +39,5 @@
 |20250925||[grub.cfg] Corrected bootscreen rotation config location
 |20250930||[handle_brightness-button_event.sh] Support HW backlight brightness control
 |20251113||[Wireless] Added support for RTL8812BU/RTL8822BU
+|20251114||[Speaker/Headphone] Enable Eventhandling for 'HDA Intel' cards
+
